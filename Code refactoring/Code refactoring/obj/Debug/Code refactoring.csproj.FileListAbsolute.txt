@@ -1,0 +1,7 @@
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\bin\Debug\Code refactoring.exe.config
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\bin\Debug\Code refactoring.exe
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\bin\Debug\Code refactoring.pdb
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\obj\Debug\Code refactoring.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\obj\Debug\Code refactoring.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\obj\Debug\Code refactoring.exe
+C:\Users\PC Morten\source\repos\Code refactoring\Code refactoring\obj\Debug\Code refactoring.pdb
